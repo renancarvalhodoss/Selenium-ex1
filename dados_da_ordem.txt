@@ -1,0 +1,36 @@
+Reorder
+Order Reference ZUOMVDIBT -- placed on 03/20/2021
+Carrier My carrier
+Payment method Bank wire
+Download your invoice as a PDF file.
+FOLLOW YOUR ORDER'S STATUS STEP-BY-STEP
+Date Status
+03/20/2021 On backorder
+03/20/2021 Awaiting bank wire payment
+DELIVERY ADDRESS (MY ADDRESS)
+renan carvalho
+fsdsdfsqdq
+monte aprazivel, Alabama 30165
+United States
+94885214485
+INVOICE ADDRESS (MY ADDRESS)
+renan carvalho
+fsdsdfsqdq
+monte aprazivel, Alabama 30165
+United States
+94885214485
+Reference Product Quantity Unit price Total price
+Items (tax excl.) $16.51
+Items (tax incl.) $17.17
+Shipping and handling (tax incl.) $2.08
+Total $19.25
+demo_1 Faded Short Sleeve T-shirts - Color : Orange, Size : S
+1 $16.51 $16.51
+Date Carrier Weight Shipping cost Tracking number
+03/20/2021 My carrier - $2.00 -
+ADD A MESSAGE
+If you would like to add a comment about your order, please write it in the field below.
+Product
+    -- Choose --
+         Faded Short Sleeve T-shirts - Color : Orange, Size : S
+        Send
